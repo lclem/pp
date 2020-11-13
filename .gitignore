@@ -11,3 +11,4 @@ doc/img/*.eps
 doc/img/*.pdf
 pp.cabal
 stack.yaml.lock
+.DS_Store
